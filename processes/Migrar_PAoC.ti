@@ -1,0 +1,7 @@
+#region Prolog
+DimensionElementInsertDirect( '}CAMAssociatedGroups', '','CAMID("pans:g:Subscription Administrators")', 'S' );
+CellPutS( 'YES', '}ClientCAMAssociatedGroups', 'CAMID("pans:g:Subscription Administrators")', 'ADMIN' );
+#endregion
+#region Epilog
+SecurityRefresh();
+#endregion
