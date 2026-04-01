@@ -60,5 +60,7 @@
 	"Titles":[],
 	"SuppressEmptyColumns":true,
 	"SuppressEmptyRows":true,
-	"FormatString":"0.00"
+	"FormatString":"0.00",
+	"ViewExtractSkipRuleValues" : true,
+	"ViewExtractSkipZeroes" : false
 }
