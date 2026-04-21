@@ -1,0 +1,13 @@
+{
+	"@type":"Process",
+	"Name":"AddFirstCAMUser",
+	"HasSecurityAccess":false,
+	"Code@Code.link":"AddFirstCAMUser.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":[],
+	"Variables":[],
+	"UID": "17758333510003"
+}
