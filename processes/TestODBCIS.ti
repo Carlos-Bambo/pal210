@@ -1,3 +1,0 @@
-#region Prolog
-odbcopen('Oracle3','admin','apple');
-#endregion
