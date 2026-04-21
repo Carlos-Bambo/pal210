@@ -32,6 +32,7 @@
 	[
 		"plan_currency.subsets/All Currencies.json",
 		"plan_currency.subsets/All Currency.json",
-		"plan_currency.subsets/All Currency Rows.json"
+		"plan_currency.subsets/All Currency Rows.json",
+		"plan_currency.subsets/TM1 2.1 Set.json"
 	]
 }

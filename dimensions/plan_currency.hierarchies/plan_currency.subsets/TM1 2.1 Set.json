@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"TM1 2.1 Set",
+	"Alias":"MEMBER_NAME",
+	"Expression":"{[plan_currency].[plan_currency].MEMBERS}"
+}
