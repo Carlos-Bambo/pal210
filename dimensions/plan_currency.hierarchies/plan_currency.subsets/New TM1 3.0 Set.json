@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"New TM1 3.0 Set",
+	"Alias":"MEMBER_NAME",
+	"Expression":"TM1IGNORE_BADTUPLES {[plan_currency].[plan_currency].MEMBERS}"
+}
