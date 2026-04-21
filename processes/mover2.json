@@ -3,11 +3,11 @@
 	"Name":"mover2",
 	"HasSecurityAccess":false,
 	"Code@Code.link":"mover2.ti",
-	"UIData":"CubeAction=1500\fDataAction=1503\fCubeName=plan_BudgetPlan\fCubeLogChanges=0\f",
 	"DataSource":
 	{
 		"Type":"None"
 	},
 	"Parameters":[],
-	"Variables":[]
+	"Variables":[],
+	"VariablesUIData": []
 }

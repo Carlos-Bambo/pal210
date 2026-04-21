@@ -3,22 +3,11 @@
 	"Name":"test",
 	"HasSecurityAccess":false,
 	"Code@Code.link":"test.ti",
-	"VariablesUIData":
-	[
-		"VarType=32\fColType=827\f",
-		"VarType=32\fColType=827\f",
-		"VarType=32\fColType=827\f",
-		"VarType=32\fColType=827\f",
-		"VarType=32\fColType=827\f",
-		"VarType=32\fColType=827\f",
-		"VarType=32\fColType=827\f",
-		"VarType=33\fColType=827\f"
-	],
 	"DataSource":
 	{
 		"Type":"TM1CubeView",
-		"dataSourceNameForClient":"plan_BudgetPlan",
 		"dataSourceNameForServer":"plan_BudgetPlan",
+		"dataSourceNameForClient":"plan_BudgetPlan",
 		"view":"mover"
 	},
 	"Parameters":[],

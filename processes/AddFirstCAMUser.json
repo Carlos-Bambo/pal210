@@ -3,11 +3,11 @@
 	"Name":"AddFirstCAMUser",
 	"HasSecurityAccess":false,
 	"Code@Code.link":"AddFirstCAMUser.ti",
-	"UIData":"_ParameterConstraints=e30=\f",
 	"DataSource":
 	{
 		"Type":"None"
 	},
 	"Parameters":[],
-	"Variables":[]
+	"Variables":[],
+	"UID": "17758333510003"
 }

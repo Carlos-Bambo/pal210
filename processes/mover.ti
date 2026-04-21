@@ -1,5 +1,6 @@
 #region Prolog
 # NEW LINE IN TM1 2.1
+#Code modified in TM1 3.0
 
 #****Begin: Generated Statements***
 OldCubeLogChanges = CUBEGETLOGCHANGES('plan_BudgetPlan');

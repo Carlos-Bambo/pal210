@@ -1,0 +1,17 @@
+{
+	"@type":"Process",
+	"Name":"ODBCIS2",
+	"HasSecurityAccess":false,
+	"DataSource":
+	{
+		"Type":"ODBC",
+		"dataSourceNameForServer":"Oracle1",
+		"dataSourceNameForClient":"Oracle1",
+		"userName":"admin",
+		"password":"apple",
+		"query":"select 1 from dual"
+	},
+	"Parameters":[],
+	"Variables":[],
+	"VariablesUIData": []
+}
