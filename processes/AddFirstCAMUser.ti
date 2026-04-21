@@ -1,0 +1,3 @@
+#region Prolog
+AddClient('CAMID("LDAP:u:uid=admin,ou=cognosusers")');
+#endregion
